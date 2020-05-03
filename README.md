@@ -7,7 +7,7 @@ These labs are intended to be as "low-entry" as possible. For that reason, I rec
 
 ### Upload Directly
 
-You can download the specific lab files from this Github repository if you'd like, but direct download links are on our course Canvas site. Once you have those, follow these instructions:
+You can download the specific lab files from this Github repository if you'd like (click the file, click `Raw`, and save the resulting code), but direct download links are on our course Canvas site. Once you have those, follow these instructions:
 
 1. Go to https://colab.research.google.com/
 2. Click `File` and then `Open Notebook`

@@ -23,5 +23,22 @@ You can link directly to this GitHub repository by following these instructions:
 3. In the top menu, click `GitHub` and then post the following url in the search: `https://github.com/peterkeep/calculus-labs`
 4. Select the lab from the list, making sure to select the correct course's lab
 
-***NOTE:*** this method will not allow you to save the file you're working on without downloading the saved file, and re-uploading it later (or doing the whole lab in one shot). 
+***NOTE:*** this method will not allow you to save the file you're working on without downloading the saved file, and re-uploading it later (or doing the whole lab in one shot). To save a file online easily, you'll need to connect this to a google account. You can set up a new google account with your school email address if you'd like.
 
+## Google Colab Instructions
+
+These notebooks are essentially broken up into two parts: blocks of written text, and blocks of python code.
+
+To edit a block of text (to add answers to follow-up questions for instance), you can click on the block of text to select it, and then click the edit icon (the pencil) in the menu in the top right corner of the block.
+
+![](/home/peter/Dropbox/MVCC/calculus-labs/colab-instructions/edit.png)
+
+To edit a block of code, you can double-click on the block of code.
+
+To run the block of code, you can either click the Play button on the left of the block of code:
+
+![](/home/peter/Dropbox/MVCC/calculus-labs/colab-instructions/runcode.gif)
+
+You can also use use `Ctrl-Enter` to run a block of code.
+
+The output (if there is any) will be included below, as seen in the gif above.

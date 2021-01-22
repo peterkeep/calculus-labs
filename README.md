@@ -35,10 +35,10 @@ To edit a block of text (to add answers to follow-up questions for instance), yo
 
 To edit a block of code, you can double-click on the block of code.
 
-To run the block of code, you can either click the Play button on the left of the block of code:
+To run the block of code, you can click the Play button on the left of the block of code:
 
 ![](/colab-instructions/runcode.gif)
 
-You can also use use `Ctrl-Enter` to run a block of code.
+or you can also use use `Ctrl-Enter` to run a block of code.
 
 The output (if there is any) will be included below, as seen in the gif above.

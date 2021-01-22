@@ -24,6 +24,8 @@ You can link directly to this GitHub repository by following these instructions:
 4. Select the lab from the list, making sure to select the correct course's lab
 5. Save a copy to edit for yourself: `File` -> `Save a Copy to Drive`
 
+Alternatively, you can also navigate to the lab you'd like to open in this github repository, and when viewing it, click the "Open in Google Colab" button on the top of the file.
+
 
 ## Google Colab Instructions
 

@@ -1,13 +1,13 @@
 # Calculus Labs
 These are labs written in python (Jupyter notebooks) for single variable calculus. 
 
-## Student Instructions
+## Instructions for Use
 
 These labs are intended to be as "low-entry" as possible. For that reason, I recommend using Google Colab: https://colab.research.google.com/. You can either upload the file directly (using a Google account) or link to this GitHub repository (without using a Google account).
 
 ### Upload Directly
 
-You can download the specific lab files from this Github repository if you'd like (click the file, click `Raw`, and save the resulting code), but direct download links are on our course Canvas site. Once you have those, follow these instructions:
+You can clone this repositpory (or download and extract the `.zip` folder) to save it locally.
 
 1. Go to https://colab.research.google.com/
 2. Click `File` and then `Open Notebook`
@@ -22,8 +22,8 @@ You can link directly to this GitHub repository by following these instructions:
 2. Click `File` and then `Open Notebook`
 3. In the top menu, click `GitHub` and then post the following url in the search: `https://github.com/peterkeep/calculus-labs`
 4. Select the lab from the list, making sure to select the correct course's lab
+5. Save a copy to edit for yourself: `File` -> `Save a Copy to Drive`
 
-***NOTE:*** this method will not allow you to save the file you're working on without downloading the saved file, and re-uploading it later (or doing the whole lab in one shot). To save a file online easily, you'll need to connect this to a google account. You can set up a new google account with your school email address if you'd like.
 
 ## Google Colab Instructions
 
